@@ -1,5 +1,5 @@
 class Task:
-    """Represents a task in the project."""
+    """Represents a task in the project.."""
 
     task_count = 0
 
