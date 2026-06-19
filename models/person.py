@@ -1,5 +1,5 @@
 class Person:
-    """Base class for people."""
+    """Base class for people.."""
 
     def __init__(self, name):
         self.name = name
